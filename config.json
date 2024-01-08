@@ -14,16 +14,16 @@
       "url": "https://cse.google.com/cse.js?cx=005178091281942032751:rimwwhz9ofx"
     },
     "firebase": {
-      "apiKey": "AIzaSyCWmOlYDKxGYzg0R6Ac2nU4veTFIo8ObFw",
-      "authDomain": "react-experiment-itodev.firebaseapp.com",
-      "projectId": "react-experiment-itodev",
-      "storageBucket": "react-experiment-itodev.appspot.com",
-      "messagingSenderId": "621034902241",
-      "appId": "1:621034902241:web:b9dfe3eb87d447880f9da0"
+      "apiKey": "AIzaSyBTocObt-wTXUFKVCkWxMBVaoZan7vgoak",
+      "authDomain": "kainimeidmyid.firebaseapp.com",
+      "projectId": "kainimeidmyid",
+      "storageBucket": "kainimeidmyid.appspot.com",
+      "messagingSenderId": "977058747558",
+      "appId": "1:977058747558:web:d5df61ff48d1fb22fb9067"
     }
   },
   "disqus": {
-    "username": "itodev"
+    "username": "haruto18"
   },
   "addThis": {
     "id": "5dd79989c6588238"
@@ -55,7 +55,7 @@
   "author": [
     {
       "id": "15951301036007458105",
-      "name": "Indrawan Lisanto",
+      "name": "Kai Haruto",
       "email": "indrawan@aleph-labs.com",
       "title": "Front-End Developer",
       "username": "itokun99",
