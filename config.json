@@ -11,7 +11,7 @@
   "google": {
     "apiKey": "AIzaSyB2MpzH-Gq6fnWuUnoI2PH2sPMTkGIQ9b0",
     "cse": {
-      "url": "https://cse.google.com/cse.js?cx=005178091281942032751:rimwwhz9ofx"
+      "url": "/"
     },
     "firebase": {
       "apiKey": "AIzaSyBTocObt-wTXUFKVCkWxMBVaoZan7vgoak",
@@ -23,7 +23,7 @@
     }
   },
   "disqus": {
-    "username": "haruto18"
+    "username": "rio-kazuto"
   },
   "addThis": {
     "id": "5dd79989c6588238"
@@ -56,66 +56,66 @@
     {
       "id": "15951301036007458105",
       "name": "Kai Haruto",
-      "email": "indrawan@aleph-labs.com",
-      "title": "Front-End Developer",
-      "username": "itokun99",
-      "nickname": "ito",
-      "profilePic": "https://avatars.githubusercontent.com/u/45938169?v=4",
+      "email": "mhdrio2004@gmail.com",
+      "title": "/",
+      "username": "mhdrio18",
+      "nickname": "kaiharuto",
+      "profilePic": "https://avatars.githubusercontent.com/u/96430530?s=48&v=4",
       "coverPic": "",
       "socialLinks": [
         {
           "id": 1,
           "name": "github",
           "title": "Github",
-          "url": "https://github.com/itokun99",
-          "username": "itokun99"
+          "url": "https://github.com/mhdrio18",
+          "username": "mhdrio18"
         },
         {
           "id": 2,
           "name": "instagram",
           "title": "Instagram",
-          "url": "https://www.instagram.com/mr.ito__",
-          "username": "mr.ito__"
+          "url": "https://www.instagram.com/",
+          "username": "/"
         },
         {
           "id": 3,
           "name": "linkedin",
           "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/indrawan-lisanto/",
-          "username": "Indrawan Lisanto"
+          "url": "https://www.linkedin.com/in/",
+          "username": "/"
         }
       ]
     },
     {
-      "id": "08567324068406956261",
-      "name": "Muhammad Irva",
-      "email": "justirva@gmail.comm",
-      "title": "Front-End Developer",
-      "username": "justirva09",
-      "nickname": "irva",
-      "profilePic": "https://avatars.githubusercontent.com/u/48151470?v=4",
+      "id": "085668903401",
+      "name": "Muhammad Rio",
+      "email": "mhdrio2004@gmail.comm",
+      "title": "/",
+      "username": "mhdrio18",
+      "nickname": "kaiharuto",
+      "profilePic": "https://avatars.githubusercontent.com/u/96430530?s=48&v=4",
       "coverPic": "",
       "socialLinks": [
         {
           "id": 1,
           "name": "github",
           "title": "Github",
-          "url": "https://github.com/justirva09",
-          "username": "justirva09"
+          "url": "https://github.com/mhdrio18",
+          "username": "mhdrio18"
         },
         {
           "id": 2,
           "name": "instagram",
           "title": "Instagram",
-          "url": "https://www.instagram.com/justirva99",
-          "username": "justirva99"
+          "url": "https://www.instagram.com",
+          "username": "/"
         },
         {
           "id": 3,
           "name": "linkedin",
           "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/justirva",
-          "username": "Muhammad Irva"
+          "url": "https://www.linkedin.com/in/",
+          "username": "/"
         }
       ]
     }
